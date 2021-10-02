@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Arkaplan
+    uniqueID: 1975134813
+    locked: 0
+  - name: Zemin
+    uniqueID: 2596558119
+    locked: 0
+  - name: Karakter Trail
+    uniqueID: 1381122567
+    locked: 0
+  - name: Karakter
+    uniqueID: 734974777
+    locked: 0
+  - name: Canvas
+    uniqueID: 2243868701
+    locked: 0
+  - name: PngLights
+    uniqueID: 51147675
+    locked: 0
